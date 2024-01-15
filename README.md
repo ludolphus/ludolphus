@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**ludolphus/ludolphus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align='center'>Baking code! 🍰⌨️</h1>
+<p align='center'>
+I'm Steve.<br />
+Creator of web and mobile apps
+</p>
+<p align='center'>For inquiries, contact me @  <a href="https://twitter.com/ludolphus">𝕏</a>.</p>
+<ul>
+  <li>Software Engineer</li>
+  <li>#php #javascript #NodeJS #C</li>
+  <li>#Linux #iOS #macOS</li>
+</ul>
+<h2 align='center'><i>Welcome to the world of software!</i></h2>
