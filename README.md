@@ -3,7 +3,7 @@
 I'm Steve.<br />
 Creator of web and mobile apps
 </p>
-<p align='center'>For inquiries, contact me @  <a href="https://twitter.com/ludolphus">𝕏</a>.</p>
+<p align='center'>For inquiries, contact me on <a href="https://twitter.com/ludolphus">𝕏</a>.</p>
 <ul>
   <li>Software Engineer</li>
   <li>#php #javascript #NodeJS #C</li>
